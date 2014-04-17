@@ -41,7 +41,7 @@ public:
 		  } else {
 			  //errs() << "----";
 		  }
-		  stream << *I << "\n";	
+		  //stream << *I << "\n";	
 	}
 };
 
